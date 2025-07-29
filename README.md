@@ -86,17 +86,7 @@ See our [Contribution Guidelines](Docs/CONTRIBUTING.md) for details.
 
 ---
 
-### Key Features of This README:
-1. **Visual Hierarchy**: Clean layout with icons and right-aligned diagram
-2. **Math Rendering**: GitHub-flavored LaTeX for equations
-3. **Action-Oriented**: Quick start guide for new users
-4. **Academic Rigor**: DOI badge and proper citation
-5. **Future-Proof**: Structured for easy updates
 
-Would you like me to:
-1. Create accompanying `CONTRIBUTING.md` guidelines?
-2. Generate the theoretical whitepaper template?
-3. Design a logo for the Media/ folder?
 <img width="917" height="131" alt="image" src="https://github.com/user-attachments/assets/2b962258-db1c-4663-87b6-d1a8e4bc4d80" />
 <img width="429" height="305" alt="image" src="https://github.com/user-attachments/assets/747601bf-ee3a-4e81-947a-4261108a41bf" />
 <img width="440" height="302" alt="image" src="https://github.com/user-attachments/assets/c9c8e3d1-d68a-49a4-9206-b06506d6601b" />
