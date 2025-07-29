@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" class="anoroc-logo">
+  <!-- Quantum J-Path (String Theory Gold) -->
+  <path d="M40,100 Q60,40 100,30 Q140,40 160,100" 
+        fill="none" 
+        stroke="#D4AF37" 
+        stroke-width="8" 
+        stroke-linecap="round"
+        marker-end="url(#quantum-dot)"/>
+  
+  <!-- Relativistic C-Curve (Curvature Purple) -->
+  <path d="M100,150 A50,50 0 0 1 50,100" 
+        fill="none" 
+        stroke="#9B59B6" 
+        stroke-width="8"
+        stroke-dasharray="1,0"/>
+  
+  <!-- Singularity Point (Black Hole) -->
+  <circle cx="50" cy="100" r="6" fill="#2C3E50"/>
+  
+  <!-- Hidden Equation (f(K) watermark) -->
+  <text x="100" y="110" 
+        font-family="Tex Gyre Adventor" 
+        font-size="10" 
+        fill="#34495E30" 
+        text-anchor="middle"
+        transform="rotate(-15 100,110)">
+    1-e^{-K/K_{max}}
+  </text>
+  
+  <defs>
+    <marker id="quantum-dot" markerWidth="8" markerHeight="8" refX="4" refY="4">
+      <circle cx="4" cy="4" r="4" fill="#D4AF37"/>
+    </marker>
+  </defs>
+</svg>
