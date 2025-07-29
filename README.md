@@ -1,6 +1,3 @@
-Here's a professional **README.md** for your ANOROC Gravity repository, designed for both technical clarity and academic impact:
-
----
 
 ```markdown
 # ANOROC Gravity 
