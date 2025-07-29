@@ -80,8 +80,8 @@ See our [Contribution Guidelines](Docs/CONTRIBUTING.md) for details.
 
 ## 📧 Contact
 - Javier Corona  
-  [javier.corona@email.com](mailto:javier.corona@email.com)  
-  [ORCID: XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+  [javier.corona@email.com](mailto:tinyhouseshop@gmail.com)  
+  
 ```
 
 ---
