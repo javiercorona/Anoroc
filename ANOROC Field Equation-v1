@@ -1,0 +1,26 @@
+ANOROC Field Equation
+
+
+
+`Gᵤᵥ + f′(K)ℋᵤᵥ + 𝒱ᵤᵥ = κTᵤᵥ`  
+
+**🔍 Components**:  
+- **Gᵤᵥ**: Einstein tensor (standard GR)  
+- **f′(K)ℋᵤᵥ**: Curvature regulator (ℋᵤᵥ ~ □Rᵤᵥ−∇ᵤ∇ᵥR)  
+- **𝒱ᵤᵥ**: Quantum backreaction (Vᵤᵥ + VˡᵤXˡᵥ)  
+- **Tᵤᵥ**: Matter stress-energy  
+
+**🌟 Key Features**:  
+1. **Smooth GR recovery** when K≪Kₘₐₓ  
+2. **Automatic singularity suppression** at K→Kₘₐₓ  
+3. **Exact covariance** (∇ᵘTᵤᵥ=0 preserved)  
+
+**📌 Example**:  
+`f(K) = K/[1+(K/Kₘₐₓ)²]`  
+• Low K: f′≈1 (GR)  
+• Planck scale: f′~Kₘₐₓ²/K² → bounds curvature  
+
+**🧠 Physics**:  
+- ℋᵤᵥ = curvature "antigravity" at high K  
+- 𝒱ᵤᵥ encodes quantum geometry effects  
+- Kₘₐₓ = ℓₚ⁻⁴ (Planckian cutoff)
