@@ -210,6 +210,9 @@ See our [Contribution Guidelines](Docs/CONTRIBUTING.md) for details.
 
 ![image](https://github.com/user-attachments/assets/9353a4a1-21fc-4cdc-962c-5dada58aceb2)
 
+![image](https://github.com/user-attachments/assets/0eed65bb-70df-4a5d-a8d3-c98a4f026f89)
+
+
 
 
 “Et sic, ex ordine et elegantia formarum, finem dat formula ultima: Anoroc.”
