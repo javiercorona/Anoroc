@@ -209,4 +209,4 @@ last version v15 do what you will
 
 
 
-
+“Et sic, ex ordine et elegantia formarum, finem dat formula ultima: Anoroc.”
