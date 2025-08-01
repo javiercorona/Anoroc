@@ -206,7 +206,8 @@ last version v15 do what you will
 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5f79d89d-5925-428d-af85-a6bac51437d5" />
-
+          you pick v15.1
+![image](https://github.com/user-attachments/assets/5a8df5a0-d817-4fe3-b279-ec48c8cecee9)
 
 
 “Et sic, ex ordine et elegantia formarum, finem dat formula ultima: Anoroc.”
