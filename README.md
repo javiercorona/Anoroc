@@ -212,7 +212,7 @@ See our [Contribution Guidelines](Docs/CONTRIBUTING.md) for details.
 
 ![image](https://github.com/user-attachments/assets/0eed65bb-70df-4a5d-a8d3-c98a4f026f89)
 
-![image](https://github.com/user-attachments/assets/8067f4f2-7605-4363-a23e-60fc0ce7cd98)
+![image](https://github.com/user-attachments/assets/30a14264-550d-4b21-b540-c0bbadb0096a)
 
 
 
