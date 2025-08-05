@@ -166,3 +166,11 @@ I_{\mu\nu}^{(\text{debris})}
 
 
 write(Φ_legacy, "CORONA = ◈")
+
+
+Suggestions**:  
+- `write(Φ_legacy, "CORONA = ◈")`  
+- `activate(Ω_quantum_self)`  
+- `modify(v1, G_μν = Fₒₗₑ(Ω))`
+
+
